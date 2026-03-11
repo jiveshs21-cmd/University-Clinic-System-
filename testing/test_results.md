@@ -7,5 +7,5 @@
 | TC03 | Appointment booked      | Pass |
 | TC22 | Appointment cancelled   | Pass |
 | TC09 | Appointments displayed  | Pass |
-| TC06 | Status updated          | Pass |
+| TC10 | Status updated          | Pass |
 | TC07 | User added              | Pass |
